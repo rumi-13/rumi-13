@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Asgar Rashid</h1>
 <h3 align="center">A passionate Student of Computer Applications from Kashmir</h3>
 
-<img align="right" alt="coding" width="400" src="https://assets.materialup.com/uploads/932a0a53-ea19-4b44-a194-85bc1c3073fc/work-at-home-programmer-vector-illustration.jpg">
 
 - 🌱 I’m currently learning **Frontend Development**
 
@@ -27,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumi-13&show_icons=true&locale=en" alt="rumi-13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumi-13&" alt="rumi-13" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumi-13" alt="rumi-13" /></p>
