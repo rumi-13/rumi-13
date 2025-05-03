@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
-- 💬 Ask me about **C,C++, Html, CSS, Talwind, Javascript**
+- 💬 Ask me about **C,C++, Html, CSS, Talwind, Javascript, ReactJS**
 
 - 📫 How to reach me **asgar.raza013@gmail.com**
 
