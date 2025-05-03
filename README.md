@@ -1,4 +1,3 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Ffront-end-development-minimal-infographic-web-banner-vector-front-end-it-sphere-html-and-css-code-internet-web-site-design-and-painting-illustration%2F369308080&psig=AOvVaw0jQrFgg97bhG4CSG8QbC0a&ust=1746345206187000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjNrP_oho0DFQAAAAAdAAAAABAR)
 <h1 align="center">Hi 👋, I'm Asgar Rashid</h1>
 <h3 align="center">A passionate Student of Computer Applications from Kashmir</h3>
 
