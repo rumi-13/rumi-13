@@ -29,6 +29,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumi-13&show_icons=true&locale=en&layout=compact" alt="rumi-13" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rumi-13&show_icons=true&locale=en" alt="rumi-13" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rumi-13" alt="rumi-13" /></p>
+-->
