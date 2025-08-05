@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Student of Computer Applications from Kashmir</h3>
 
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m a **Frontend Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
-- 💬 Ask me about **C, Python Html, CSS, Tailwind, Javascript, ReactJS**
+- 💬 Ask me about **Html, CSS, Tailwind, Javascript, ReactJS, Python**
 
 - 📫 Reach me at **asgar.raza013@gmail.com**
 
