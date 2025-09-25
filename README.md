@@ -20,6 +20,9 @@
   <li>Tailwind Css</li>
   <li>Javascript</li>
   <li>React.js</li>
+  <li>Node.js</li>
+  <li>Express</li>
+  <li>MySQL</li>
   <li>Git & GitHub</li>
   <li>Python</li>
 </ul>
