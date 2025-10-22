@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Student of Computer Applications from Kashmir</h3>
 
 
-- 🌱 I’m a **Frontend Developer**
+- 🌱 I’m an aspiring **MERN-Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
@@ -19,12 +19,14 @@
   <li>CSS</li>
   <li>Tailwind Css</li>
   <li>Javascript</li>
+  <li>MongoDb</li>
+  <li>Express.js</li>
   <li>React.js</li>
   <li>Node.js</li>
-  <li>Express</li>
   <li>MySQL</li>
   <li>Git & GitHub</li>
   <li>Python</li>
+  <li>NumPy & Pandas</li>
 </ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rumi-13&show_icons=true&locale=en&layout=compact" alt="rumi-13" /></p>
