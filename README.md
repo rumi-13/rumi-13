@@ -4,6 +4,8 @@
 
 - 🌱 I’m an aspiring **MERN-Stack Developer**
 
+- 🎓 Checkout my **[Potfolio](https://rumi-potfolio.vercel.app/)**
+
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
 - 📫 Reach me at **asgar.raza013@gmail.com**
