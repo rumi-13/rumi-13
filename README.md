@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
-- 📫 Reach me at **asgar.rashid019.com**
+- 📫 Reach me at **asgar.rashid019@gmail.com**
 
 - ⚡ Fun fact **A person who finds profound beauty and wisdom in the artistry of words 📚.**
 
