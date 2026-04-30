@@ -4,7 +4,7 @@
 
 - 🌱 I’m an aspiring **MERN-Stack Developer**
 
-- 🎓 Checkout my **[Portfolio](https://ruumii.vercel.app/)**
+- 🎓 Checkout my **[Portfolio](https://www.rumii.me/)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rumi-13](https://github.com/rumi-13)
 
