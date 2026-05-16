@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asgar Rashid</h1>
-<h3 align="center">A passionate Student of Computer Applications from Kashmir</h3>
+<h3 align="center">A Student of Computer Applications from Kashmir</h3>
 
 
 - 💻 **MERN-Stack Developer**
