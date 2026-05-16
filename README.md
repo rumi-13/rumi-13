@@ -20,7 +20,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Tailwind Css</li>
-  <li>BootStrap</li>li>
+  <li>BootStrap</li>
   <li>Javascript</li>
   <li>MongoDb</li>
   <li>Express.js</li>
