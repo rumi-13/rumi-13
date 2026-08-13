@@ -2,9 +2,9 @@
 <h3 align="center">A Student of Computer Applications from Kashmir</h3>
 
 
-- 💻 **MERN-Stack Developer**
+- 💻 **MERN-Stack Developer **
 
-- 🎓 Pursuing **Reasearch in CNNs as a part of my academics**
+- 🎓 **Artificial Intelligence**
 
 - 🌐 Checkout my **[Portfolio](https://www.rumii.me/)**
 
