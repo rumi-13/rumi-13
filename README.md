@@ -2,7 +2,7 @@
 <h3 align="center">A Student of Computer Applications from Kashmir</h3>
 
 
-- 💻 **MERN-Stack Developer **
+- 💻 **MERN-Stack Developer**
 
 - 🎓 **Artificial Intelligence**
 
@@ -30,9 +30,9 @@
   <li>MySQL</li>
   <li>Git & GitHub</li>
   <li>Python</li>
-  <li>NumPy & Pandas</li> 
+  <li>NumPy, Pandas, Matplotlib, Tensorflow/Keras</li> 
   <li>C Language</li>
-  <li>Java Programming [OOPs] </li>
+  <li>Java & C++ Programming [OOPs] </li>
   <li>Docker</li>
 </ul>
 
